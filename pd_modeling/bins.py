@@ -355,23 +355,5 @@ bins = {
             "label": "(10000, inf)",
             "max": sys.maxsize
         },
-    ],
-    "status": [
-        {
-            "label": "(-inf, 0.2)",
-            "max": 0.2
-        },
-        {
-            "label": "(0.2, 0.4)",
-            "max": 0.4
-        },
-        {
-            "label": "(0.4, 0.6)",
-            "max": 0.6
-        },
-        {
-            "label": "(0.6, inf)",
-            "max": sys.maxsize
-        },
-    ],
+    ]
 }
